@@ -9,7 +9,7 @@
   <a href="mailto:orlandinfereira.felipe@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/felipeorlandin/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Adicione outros se quiser, mas mantenha o mínimo -->
@@ -36,17 +36,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats (opcional – mantenha se quiser um toque visual)
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeOrlandin&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOrlandin&layout=compact&theme=graywhite&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <sub>💻 Feel free to explore my repositories and reach out for collaborations!</sub>
