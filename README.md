@@ -12,10 +12,10 @@
 ---
 
 ### 👨‍💻 About
-
+<p align="center">
 Full Stack Developer · Spring Boot & Vue.js  
 Graduated in Systems Analysis and Development.
-
+</p>
 ---
 
 ### 🛠️ Stack
