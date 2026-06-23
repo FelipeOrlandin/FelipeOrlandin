@@ -10,18 +10,19 @@
 </p>
 
 ---
-
+<p align="center">
 ### 👨‍💻 About
+   </p>
 <p align="center">
 Full Stack Developer · Spring Boot & Vue.js  
  </p>
   <p align="center">
 Graduated in Systems Analysis and Development.
 </p>
----
 
+<p align="center">
 ### 🛠️ Stack
-
+ </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
