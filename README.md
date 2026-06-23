@@ -14,6 +14,8 @@
 ### 👨‍💻 About
 <p align="center">
 Full Stack Developer · Spring Boot & Vue.js  
+ </p>
+  <p align="center">
 Graduated in Systems Analysis and Development.
 </p>
 ---
