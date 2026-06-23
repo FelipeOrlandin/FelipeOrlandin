@@ -12,7 +12,7 @@
 
 <br><br>
 
-**Full Stack Developer** · Spring Boot & Vue.js  
+**Full Stack Developer** · Spring Boot & Angular  
 Graduated in Systems Analysis and Development.
 
 <br>
